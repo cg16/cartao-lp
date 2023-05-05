@@ -16,7 +16,8 @@ body{
 
 .cartao{
     background-color: #070d125b;
-    width: 370px;
+    /* alterar aqui  */
+    width: 600px;
     border: 2px solid rgba(51, 53, 53, 0.863);
     border-radius: 10px;
     overflow: hidden;
